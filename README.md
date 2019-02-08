@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgedeonix%2Fgedeonix-ui.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgedeonix%2Fgedeonix-ui?ref=badge_shield)
+
 Gedeonix UI
 -----------
 
@@ -23,3 +25,6 @@ Author's blog
 -------------
 
 Przemysław Sołtan - [gedeonix.pl](http://gedeonix.pl) 
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgedeonix%2Fgedeonix-ui.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgedeonix%2Fgedeonix-ui?ref=badge_large)
